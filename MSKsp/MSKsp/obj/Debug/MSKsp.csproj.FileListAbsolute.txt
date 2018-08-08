@@ -1,0 +1,6 @@
+c:\users\saursi\documents\visual studio 2015\Projects\MSKsp\MSKsp\bin\Debug\MSKsp.exe.config
+c:\users\saursi\documents\visual studio 2015\Projects\MSKsp\MSKsp\obj\Debug\MSKsp.csprojResolveAssemblyReference.cache
+c:\users\saursi\documents\visual studio 2015\Projects\MSKsp\MSKsp\bin\Debug\MSKsp.exe
+c:\users\saursi\documents\visual studio 2015\Projects\MSKsp\MSKsp\bin\Debug\MSKsp.pdb
+c:\users\saursi\documents\visual studio 2015\Projects\MSKsp\MSKsp\obj\Debug\MSKsp.exe
+c:\users\saursi\documents\visual studio 2015\Projects\MSKsp\MSKsp\obj\Debug\MSKsp.pdb
